@@ -3,6 +3,7 @@
 
 /html/php-challenge/member_picture/*
 !/html/php-challenge/member_picture/.gitkeep
+/html/php-practice/*
 
 /mysql5.7/mysql
 /mysql5.7/mysqlvolume/*
